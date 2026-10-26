@@ -52,6 +52,20 @@ His [interactive portfolio and lab](https://metame-portfolio.pages.dev/lab/) and
 
 [Peter's LinkedIn](https://www.linkedin.com/in/peter-cameron-813b0339) · [Contact Peter](mailto:peter@metame.pro)
 
+### Ken Knudsen
+
+Ken contributes technical direction, hands-on software architecture, and enterprise modernization to PKT Federation as President, CTO, and Principal Architect. His background spans more than 30 years designing, integrating, and stabilizing systems across banking, industrial software, manufacturing, transportation, and media, including work with TD Bank, Invensys, and Harris/Imagine Communications.
+
+Within PKT, he develops AI-assisted software delivery and information systems that connect new capabilities to existing business processes, with an emphasis on reliability and human oversight. His work also draws on rehabilitation technology, published technical writing, and building and operating NERO Canada's persistent live-action simulation worlds.
+
+### Jeffrey Pinchbeck
+
+Jeff contributes enterprise software architecture, product release management, and the engineering discipline that turns complex systems into dependable, supportable software. His 26-year career at AVEVA included principal software engineering and global support roles for the Avantis.PRO enterprise asset management suite, spanning application frameworks, database integration, performance diagnostics, and customer technical enablement.
+
+Within the team, he brings that experience to development practices, SQL and data architecture, release readiness, and customer-facing demonstrations. His background in music production and creative technology also informs immersive experiences and the way technical ideas are presented to people.
+
+[Jeff's LinkedIn](https://www.linkedin.com/in/jeffrey-pinchbeck)
+
 ## Connect with PKT Federation
 
 [PKT Federation website](https://www.pktfederation.com) · [Organization contact](mailto:pktfederation@protonmail.com) · Canada
