@@ -22,22 +22,43 @@ These are connected areas of an evolving body of work. Public demonstrations inc
 ## Team development activity
 
 <!-- ACTIVITY:START -->
+### Past 12 months
 ![PKT Federation team development activity](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity.svg)
 
 | Team non-merge commits | Active days | Private repositories with activity | Commits in the last 30 calendar days |
 | ---: | ---: | ---: | ---: |
-| 8,554 | 319 | 47 | 3,164 |
+| 8,818 | 319 | 54 | 3,107 |
 
-**Period:** 27 October 2025–26 October 2026. **Latest matching commit:** 2026-10-26. **Snapshot:** 2026-10-26 21:22:45 UTC.
+**Period:** 28 October 2025–27 October 2026. **Latest matching commit:** 2026-10-27. **Snapshot:** 2026-10-27 01:40:36 UTC.
 
 This organization-wide summary represents recorded development activity across PKT Federation's private repositories and contributors. Code, private repository identities, and individual commit details remain confidential.
+
+### All-time retained development activity
+
+| Team non-merge commits | Active days | Private repositories with activity |
+| ---: | ---: | ---: |
+| 9,058 | 395 | 64 |
+
+**First retained matching commit:** 2024-10-31. **Through:** 2026-10-27 01:40:36 UTC.
+
+All-time means qualifying development history still reachable in the organization's current private repositories. It can predate the GitHub organization and does not include deleted or otherwise unavailable history.
+
+#### Year-by-year breakdown
+
+| Calendar year (UTC) | Team non-merge commits | Active days | Private repositories with activity |
+| --- | ---: | ---: | ---: |
+| 2026 (year to date) | 8,468 | 263 | 53 |
+| 2025 | 557 | 120 | 20 |
+| 2024 | 33 | 12 | 4 |
+
+Commits and active days sum to the all-time totals. A repository can be active in multiple years, so yearly repository counts do not sum to the all-time repository count. The current year is partial.
 
 <details>
 <summary>How these statistics are counted</summary>
 
 This is a custom, dated snapshot generated from GitHub commit metadata across the default and development branches of accessible private, non-fork organization repositories. It includes contributions across author identities, including commits not linked to a GitHub account. Identical commits appearing on multiple branches or repositories count once. Dates and active days use the recorded committer timestamp in UTC; the current day is partial.
 
-Public repositories, forks, imported upstream history, merge commits, and commits attributed to accounts identified by GitHub as bots or authors labelled [bot] are excluded. AI-assisted work recorded under contributor identities is included. Deleted branches no longer reachable from current branch tips are outside the snapshot. These statistics describe recorded repository activity; they do not measure hours worked, code quality, or an individual's share of the team's work. An automatic daily refresh is scheduled; the timestamp above identifies the last successful snapshot. If collection or validation fails, the last verified snapshot stays in place. This is not a live GitHub contribution calendar. Chart intensity uses quartiles of non-zero daily counts.
+Both views use the same exclusions: public repositories, the private activity-automation repository, forks, configured imported upstream history, merge commits, and commits attributed to accounts identified by GitHub as bots or authors labelled [bot] are excluded. AI-assisted work recorded under contributor identities is included. Deleted branches no longer reachable from current branch tips are outside the snapshot. These statistics describe recorded repository activity; they do not measure hours worked, code quality, or an individual's share of the team's work. An automatic daily refresh is scheduled; the timestamp above identifies the last successful snapshot. If collection or validation fails, the last verified snapshot stays in place. This is not a live GitHub contribution calendar. Chart intensity uses quartiles of non-zero daily counts.
 
 </details>
 <!-- ACTIVITY:END -->
