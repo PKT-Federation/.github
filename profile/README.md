@@ -22,21 +22,21 @@ These are connected areas of an evolving body of work. Public demonstrations inc
 ## Team development activity
 
 <!-- ACTIVITY:START -->
-![PKT Federation continuous team development history](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg?v=abfa3eb936a2288a)
+![PKT Federation continuous team development history](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg?v=fc40258779f3bd3f)
 
 | Period | Team non-merge commits | Active days | Private repositories with activity |
 | --- | ---: | ---: | ---: |
-| All retained history | 9,058 | 395 | 64 |
-| Past 12 months | 8,818 | 319 | 54 |
+| All retained history | 9,100 | 395 | 64 |
+| Past 12 months | 8,860 | 319 | 54 |
 
-**Last 30 calendar days:** 3,107 commits. **Snapshot:** 2026-10-27 01:40:36 UTC.
+**Last 30 calendar days:** 3,149 commits. **Snapshot:** 2026-10-27 12:56:40 UTC.
 
 <details>
 <summary>Year-by-year totals</summary>
 
 | Calendar year (UTC) | Team non-merge commits | Active days | Private repositories with activity |
 | --- | ---: | ---: | ---: |
-| 2026 (year to date) | 8,468 | 263 | 53 |
+| 2026 (year to date) | 8,510 | 263 | 53 |
 | 2025 | 557 | 120 | 20 |
 | 2024 | 33 | 12 | 4 |
 
