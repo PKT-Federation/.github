@@ -35,6 +35,8 @@ This organization-wide summary represents recorded development activity across P
 
 ### All-time retained development activity
 
+![PKT Federation all-time team development activity by year](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg)
+
 | Team non-merge commits | Active days | Private repositories with activity |
 | ---: | ---: | ---: |
 | 9,058 | 395 | 64 |
