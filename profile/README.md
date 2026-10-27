@@ -22,30 +22,17 @@ These are connected areas of an evolving body of work. Public demonstrations inc
 ## Team development activity
 
 <!-- ACTIVITY:START -->
-### Past 12 months
-![PKT Federation team development activity](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity.svg)
+![PKT Federation continuous team development history](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg)
 
-| Team non-merge commits | Active days | Private repositories with activity | Commits in the last 30 calendar days |
-| ---: | ---: | ---: | ---: |
-| 8,818 | 319 | 54 | 3,107 |
+| Period | Team non-merge commits | Active days | Private repositories with activity |
+| --- | ---: | ---: | ---: |
+| All retained history | 9,058 | 395 | 64 |
+| Past 12 months | 8,818 | 319 | 54 |
 
-**Period:** 28 October 2025–27 October 2026. **Latest matching commit:** 2026-10-27. **Snapshot:** 2026-10-27 01:40:36 UTC.
+**Last 30 calendar days:** 3,107 commits. **Snapshot:** 2026-10-27 01:40:36 UTC.
 
-This organization-wide summary represents recorded development activity across PKT Federation's private repositories and contributors. Code, private repository identities, and individual commit details remain confidential.
-
-### All-time retained development activity
-
-![PKT Federation all-time team development activity by year](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg)
-
-| Team non-merge commits | Active days | Private repositories with activity |
-| ---: | ---: | ---: |
-| 9,058 | 395 | 64 |
-
-**First retained matching commit:** 2024-10-31. **Through:** 2026-10-27 01:40:36 UTC.
-
-All-time means qualifying development history still reachable in the organization's current private repositories. It can predate the GitHub organization and does not include deleted or otherwise unavailable history.
-
-#### Year-by-year breakdown
+<details>
+<summary>Year-by-year totals</summary>
 
 | Calendar year (UTC) | Team non-merge commits | Active days | Private repositories with activity |
 | --- | ---: | ---: | ---: |
@@ -53,14 +40,18 @@ All-time means qualifying development history still reachable in the organizatio
 | 2025 | 557 | 120 | 20 |
 | 2024 | 33 | 12 | 4 |
 
-Commits and active days sum to the all-time totals. A repository can be active in multiple years, so yearly repository counts do not sum to the all-time repository count. The current year is partial.
+Yearly commits and active days sum to the all-time totals. A repository can be active in multiple years. The current year is partial.
+
+</details>
 
 <details>
 <summary>How these statistics are counted</summary>
 
-This is a custom, dated snapshot generated from GitHub commit metadata across the default and development branches of accessible private, non-fork organization repositories. It includes contributions across author identities, including commits not linked to a GitHub account. Identical commits appearing on multiple branches or repositories count once. Dates and active days use the recorded committer timestamp in UTC; the current day is partial.
+The chart spans 2024-10-31 through 2026-10-27, showing all qualifying development history still reachable from the default and development branches of accessible private, non-fork organization repositories. The past-12-month totals cover 2025-10-28 through 2026-10-27. Retained history can predate the GitHub organization; deleted or otherwise unavailable history is not included.
 
-Both views use the same exclusions: public repositories, the private activity-automation repository, forks, configured imported upstream history, merge commits, and commits attributed to accounts identified by GitHub as bots or authors labelled [bot] are excluded. AI-assisted work recorded under contributor identities is included. Deleted branches no longer reachable from current branch tips are outside the snapshot. These statistics describe recorded repository activity; they do not measure hours worked, code quality, or an individual's share of the team's work. An automatic daily refresh is scheduled; the timestamp above identifies the last successful snapshot. If collection or validation fails, the last verified snapshot stays in place. This is not a live GitHub contribution calendar. Chart intensity uses quartiles of non-zero daily counts.
+Only aggregate counts are public. Code, private repository identities, and individual commit details remain confidential. Contributions across all author identities are included, including unlinked identities and AI-assisted work. Identical commits appearing on multiple branches or repositories count once. Dates use recorded committer timestamps in UTC; the current day is partial.
+
+Public repositories, the private activity-automation repository, forks, configured imported upstream history, merge commits, and known GitHub Bot/[bot] authors are excluded. These statistics describe recorded activity, not hours worked, code quality, or an individual's share of the team's work. An automatic daily refresh is scheduled; the timestamp identifies the last successful snapshot. Failed collection or validation preserves the last verified snapshot. This is not a live GitHub contribution calendar. Color intensity uses quartiles of non-zero daily counts across the full retained period.
 
 </details>
 <!-- ACTIVITY:END -->
