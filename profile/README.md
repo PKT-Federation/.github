@@ -67,10 +67,13 @@ His [interactive portfolio and lab](https://metame-portfolio.pages.dev/lab/) and
 [Peter's LinkedIn](https://www.linkedin.com/in/peter-cameron-813b0339) · [Contact Peter](mailto:peter@metame.pro)
 
 ### Ken Knudsen
+**President, CTO & Principal Architect | PKT Inc.**
 
-Ken contributes technical direction, hands-on software architecture, and enterprise modernization to PKT Federation as President, CTO, and Principal Architect. His background spans more than 30 years designing, integrating, and stabilizing systems across banking, industrial software, manufacturing, transportation, and media, including work with TD Bank, Invensys, and Harris/Imagine Communications.
+Ken Knudsen is a software architect, debugging specialist, and systems innovator with over 30 years of experience designing, recovering, and modernizing complex enterprise software. His background spans banking, industrial systems, manufacturing, transportation, and broadcast media, including work with TD Bank, Invensys/Wonderware, and Harris/Imagine Communications. A published technical author, Ken specializes in resolving deeply rooted architectural problems and transforming complex, inherited systems into extensible software platforms.
 
-Within PKT, he develops AI-assisted software delivery and information systems that connect new capabilities to existing business processes, with an emphasis on reliability and human oversight. His work also draws on rehabilitation technology, published technical writing, and building and operating NERO Canada's persistent live-action simulation worlds.
+His work in gamification and immersive systems reaches back to 1992, where he built and operated a long-running live-action gaming and simulation ecosystem incorporating persistent worlds, player progression, evolving narratives, rule-driven interactions, and community engagement. He later applied these principles to neurotechnology, developing gamified interfaces and supporting software infrastructure for a **start-ups stroke-survivor rehabilitation technology**. This experience continues to evolve through Axis Mundi, the Reality Generation Engine, immersive simulation development, and PKT's gaming/product prototypes used to validate AI-assisted software generation and delivery pipelines.
+
+Today, Ken leads the architecture and development of **AMIA (Axis Mundi Intelligence Amplification)**, a governed AI development and agent infrastructure designed to transform architectural intent into controlled, test-validated software delivery. His work bridges sovereign and third-party AI systems, enterprise modernization, agent orchestration, canonical knowledge, simulation, and immersive application development—with an emphasis on reliability, human oversight, and building practical systems that expand what small teams can accomplish.
 
 ### Jeffrey Pinchbeck
 
