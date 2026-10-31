@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="235" viewBox="0 0 900 235" role="img" aria-labelledby="title desc">
 <title id="title">PKT Federation — team development activity</title>
-<desc id="desc">One continuous calendar from 2024-10-31 to 2026-10-28: 9,263 non-merge commits on 396 active days. Aggregate counts only.</desc>
+<desc id="desc">One continuous calendar from 2024-10-31 to 2026-10-31: 9,887 non-merge commits on 399 active days. Aggregate counts only.</desc>
 <rect x="0.5" y="0.5" width="899" height="234" rx="12" fill="#0d1117" stroke="#30363d"/>
 <g font-family="Arial, sans-serif" fill="#e6edf3">
 <text x="25" y="30" font-size="17" font-weight="bold">PKT Federation · Team development activity</text>
-<text x="25" y="52" font-size="12" fill="#a8b3bf">31 Oct 2024 – 28 Oct 2026 · All retained history · Aggregate counts only</text>
+<text x="25" y="52" font-size="12" fill="#a8b3bf">31 Oct 2024 – 31 Oct 2026 · All retained history · Aggregate counts only</text>
 <text x="48.00" y="76" font-size="12" font-weight="bold" fill="#e6edf3">2024</text>
 <rect x="48.00" y="149" width="6.31" height="6.31" rx="1" fill="#0e4429"><title>2024-10-31: 3 commits</title></rect>
 <text x="48.00" y="92" font-size="9" fill="#a8b3bf">Nov</text>
@@ -759,11 +759,14 @@
 <rect x="860.19" y="101" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-25: 107 commits</title></rect>
 <rect x="860.19" y="113" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-26: 103 commits</title></rect>
 <rect x="860.19" y="125" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-27: 133 commits</title></rect>
-<rect x="860.19" y="137" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-28: 78 commits</title></rect>
+<rect x="860.19" y="137" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-28: 169 commits</title></rect>
+<rect x="860.19" y="149" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-29: 182 commits</title></rect>
+<rect x="860.19" y="161" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-30: 232 commits</title></rect>
+<rect x="860.19" y="173" width="6.31" height="6.31" rx="1" fill="#39d353"><title>2026-10-31: 119 commits</title></rect>
 <text x="14" y="119" font-size="9" fill="#a8b3bf">Mon</text>
 <text x="14" y="143" font-size="9" fill="#a8b3bf">Wed</text>
 <text x="14" y="167" font-size="9" fill="#a8b3bf">Fri</text>
-<text x="25" y="215" font-size="12">9,263 commits · 396 active days · 64 private repositories</text>
+<text x="25" y="215" font-size="12">9,887 commits · 399 active days · 64 private repositories</text>
 <text x="645" y="215" font-size="10" fill="#a8b3bf">Less</text>
 <rect x="674" y="205" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="689" y="205" width="11" height="11" rx="2" fill="#0e4429"/>
