@@ -22,21 +22,21 @@ These are connected areas of an evolving body of work. Public demonstrations inc
 ## Team development activity
 
 <!-- ACTIVITY:START -->
-![PKT Federation continuous team development history](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg?v=938ef421843dee00)
+![PKT Federation continuous team development history](https://raw.githubusercontent.com/PKT-Federation/.github/main/profile/assets/activity-all-time.svg?v=4724495e2105134a)
 
 | Period | Team non-merge commits | Active days | Private repositories with activity |
 | --- | ---: | ---: | ---: |
-| All retained history | 10,686 | 406 | 65 |
-| Past 12 months | 10,407 | 322 | 54 |
+| All retained history | 10,743 | 407 | 65 |
+| Past 12 months | 10,464 | 323 | 54 |
 
-**Last 30 calendar days:** 3,227 commits. **Snapshot:** 2026-11-07 18:03:41 UTC.
+**Last 30 calendar days:** 3,170 commits. **Snapshot:** 2026-11-08 18:22:57 UTC.
 
 <details>
 <summary>Year-by-year totals</summary>
 
 | Calendar year (UTC) | Team non-merge commits | Active days | Private repositories with activity |
 | --- | ---: | ---: | ---: |
-| 2026 (year to date) | 10,096 | 274 | 54 |
+| 2026 (year to date) | 10,153 | 275 | 54 |
 | 2025 | 557 | 120 | 20 |
 | 2024 | 33 | 12 | 4 |
 
@@ -47,7 +47,7 @@ Yearly commits and active days sum to the all-time totals. A repository can be a
 <details>
 <summary>How these statistics are counted</summary>
 
-The chart spans 2024-10-31 through 2026-11-07, showing all qualifying development history still reachable from the default and development branches of accessible private, non-fork organization repositories. The past-12-month totals cover 2025-11-08 through 2026-11-07. Retained history can predate the GitHub organization; deleted or otherwise unavailable history is not included.
+The chart spans 2024-10-31 through 2026-11-08, showing all qualifying development history still reachable from the default and development branches of accessible private, non-fork organization repositories. The past-12-month totals cover 2025-11-09 through 2026-11-08. Retained history can predate the GitHub organization; deleted or otherwise unavailable history is not included.
 
 Only aggregate counts are public. Code, private repository identities, and individual commit details remain confidential. Contributions across all author identities are included, including unlinked identities and AI-assisted work. Identical commits appearing on multiple branches or repositories count once. Dates use recorded committer timestamps in UTC; the current day is partial.
 
