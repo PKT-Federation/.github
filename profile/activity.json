@@ -1,14 +1,13 @@
 {
   "scope": "organization",
-  "windowStart": "2025-11-09T00:00:00Z",
-  "asOf": "2026-11-08T18:22:57Z",
-  "commits": 10464,
+  "windowStart": "2025-11-10T00:00:00Z",
+  "asOf": "2026-11-09T22:59:50Z",
+  "commits": 10574,
   "activeDays": 323,
   "activeRepositories": 54,
-  "commitsLast30Days": 3170,
-  "latestCommitDate": "2026-11-08",
+  "commitsLast30Days": 3226,
+  "latestCommitDate": "2026-11-09",
   "daily": {
-    "2025-11-09": 2,
     "2025-11-10": 3,
     "2025-11-11": 5,
     "2025-11-12": 4,
@@ -330,13 +329,14 @@
     "2026-11-05": 32,
     "2026-11-06": 15,
     "2026-11-07": 156,
-    "2026-11-08": 20
+    "2026-11-08": 33,
+    "2026-11-09": 99
   },
   "coverage": "Default and development branches of accessible private, non-fork organization repositories",
   "knownBotCommitsExcluded": 100,
   "allTime": {
-    "commits": 10743,
-    "activeDays": 407,
+    "commits": 10855,
+    "activeDays": 408,
     "activeRepositories": 65,
     "firstCommitDate": "2024-10-31",
     "years": [
@@ -354,8 +354,8 @@
       },
       {
         "year": 2026,
-        "commits": 10153,
-        "activeDays": 275,
+        "commits": 10265,
+        "activeDays": 276,
         "activeRepositories": 54
       }
     ],
@@ -766,7 +766,8 @@
       "2026-11-05": 32,
       "2026-11-06": 15,
       "2026-11-07": 156,
-      "2026-11-08": 20
+      "2026-11-08": 33,
+      "2026-11-09": 99
     }
   }
 }
