@@ -58,14 +58,6 @@ Public repositories, the private activity-automation repository, forks, configur
 
 ## Contributor spotlight
 
-### Peter Cameron
-
-Peter contributes learning design, product direction, world-building, and hands-on systems architecture within the wider team. His background includes co-founding NEXED/Answerables, PKT client work in rehabilitation technology and manufacturing automation, and enterprise solutions and client enablement at Axonify.
-
-His [interactive portfolio and lab](https://metame-portfolio.pages.dev/lab/) and [work notebook](https://metame-portfolio.pages.dev/reading/work.html) present his practice and selected collaborative work, with context about what each demonstration represents.
-
-[Peter's LinkedIn](https://www.linkedin.com/in/peter-cameron-813b0339) · [Contact Peter](mailto:peter@metame.pro)
-
 ### Ken Knudsen
 **President, CTO & Principal Architect | PKT Inc.**
 
@@ -82,6 +74,15 @@ Jeff contributes enterprise software architecture, product release management, a
 Within the team, he brings that experience to development practices, SQL and data architecture, release readiness, and customer-facing demonstrations. His background in music production and creative technology also informs immersive experiences and the way technical ideas are presented to people.
 
 [Jeff's LinkedIn](https://www.linkedin.com/in/jeffrey-pinchbeck)
+
+
+### Peter Cameron
+
+Peter contributes learning design, product direction, world-building, and hands-on systems architecture within the wider team. His background includes co-founding NEXED/Answerables, PKT client work in rehabilitation technology and manufacturing automation, and enterprise solutions and client enablement at Axonify.
+
+His [interactive portfolio and lab](https://metame-portfolio.pages.dev/lab/) and [work notebook](https://metame-portfolio.pages.dev/reading/work.html) present his practice and selected collaborative work, with context about what each demonstration represents.
+
+[Peter's LinkedIn](https://www.linkedin.com/in/peter-cameron-813b0339) · [Contact Peter](mailto:peter@metame.pro)
 
 ## Connect with PKT Federation
 
